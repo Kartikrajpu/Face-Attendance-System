@@ -36,7 +36,7 @@ plaintext
 Clone the repo:
 
 bash
-git clone https://github.com/your-username/face-attendance-system.git
+git clone https://github.com/Kartikrajpu/Face-Attendance-System
 cd face-attendance-system
 Install dependencies:
 
@@ -72,12 +72,6 @@ Logs attendance to attendance_reports/.
 bash
 python src/reports.py
 Exports attendance data to CSV/Excel.
-
-4. Launch GUI (Optional)
-bash
-python src/gui.py
-📷 Demo
-https://demo_gui.png (Replace with your actual screenshot)
 
 🤝 Contributing
 Bug fixes: Open an issue or submit a PR.
